@@ -1,0 +1,23 @@
+{
+    "llm": {
+        "deepseek": {
+            "api_key": "your-api-key",
+            "api_base": "llm-base_url",
+            "model": "model-name",
+            "temperature": 1.3,
+            "max_tokens": 8192
+        }
+    }
+    },
+    "supported_languages": {
+        "中文": "Chinese",
+        "英语": "English",
+        "日语": "Japanese",
+        "韩语": "Korean",
+        "法语": "French",
+        "德语": "German",
+        "西班牙语": "Spanish",
+        "俄语": "Russian"
+    },
+    "note": "llm默认选择第一个。翻译默认是第一(源语言)、二个(目标语言)"
+} 

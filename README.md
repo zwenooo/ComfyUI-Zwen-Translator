@@ -2,6 +2,12 @@
 
 这是一个用于 ComfyUI 的通用翻译节点插件，支持多语言互译和多 LLM 模型配置。
 
+工作流见：comfyui-zwen-translator.json
+
+效果图：![comfyui-zwen-translator](README.assets/comfyui-zwen-translator.png)
+
+
+
 ## 功能特点
 
 - 支持多语言互译（中文、英语、日语、韩语等）

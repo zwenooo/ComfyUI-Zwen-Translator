@@ -188,7 +188,7 @@ if __name__ == "__main__":
         source_language="中文",
         target_language="日语",
         llm="deepseek",
-        input_text="你是大煞笔吗？",
-        fixed_terms="大煞笔=大傻波"
+        input_text="你是大可爱吗？",
+        fixed_terms="大可爱=XXX"
     )
     print(result[0])  
